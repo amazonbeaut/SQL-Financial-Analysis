@@ -17,3 +17,5 @@ Logic Layering: Utilized Common Table Expressions (CTEs) to first calculate the 
 Dynamic Flagging: Applied CASE statements to categorize members into "Active," "Stale," or "Inactive" based on time intervals since their last transaction.
 
 Reporting: Filtered the results to highlight high-value targets for the Member Services team to prioritize for outreach.
+
+Drawing on my 10+ years of experience at Redstone Federal Credit Union, I designed this query to mirror the "discrepancy identification" and "educational support" strategies I utilized as a Virtual Member Service Representative. This project demonstrates my ability to translate deep industry domain knowledge into scalable technical solutions.
